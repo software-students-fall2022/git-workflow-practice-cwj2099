@@ -9,3 +9,5 @@ This is an article about game development
 simplify the game development process compared to writing your engine from scratch. 
 The main disadvantage of using ready-made engines is that 
 you need to read a lot of documentation and understand the engine’s interface."
+
+LUCY KOCHARIAN'S COMMENT: This is an interesting read, because I never thought about how the game must work across all operating systems, and how each OS is a different set of SDK and interaction rules. 
